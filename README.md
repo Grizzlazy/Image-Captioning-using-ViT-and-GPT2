@@ -1,7 +1,8 @@
 **Image Captioning**
 
-Sử dụng kết hợp mạng nơ-ron tích chập (Convolutional Neural Network - CNN) và mạng nơ-ron hồi quy chuỗi dài ngắn hạn (Long Short-Term Memory - LSTM) để giải quyết bài toán tự động chú thích hình ảnh.
+Sử dụng kết hợp Vision Transformer (ViT) để trích xuất các đặc trưng của hình ảnh và sau đó sử dụng GPT-2 để sinh dự đoán chú thích cho hình ảnh.
 
 Sơ đồ mô tả:
 
-![image](https://github.com/Grizzlazy/ProjectML/assets/134766687/cafba53e-c95e-485c-89c7-d2946210d856)
+![image](https://github.com/Grizzlazy/ProjectML/assets/134766687/a35b64c5-2f93-40ff-a2d5-3e043516e524)
+
